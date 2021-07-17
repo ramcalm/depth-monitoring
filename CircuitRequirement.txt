@@ -1,0 +1,14 @@
+==============================================
+|Component                   |   Quantity    |
+==============================================
+|Arduino Uno                 |       1       |
+|Wifi Module (ESP8266)       |       1       |
+|1 kΩ Resistor               |       3       |
+|2.2 kΩ Resistor             |       1       |
+|220 Ω Resistor              |       1       |
+|Red LED                     |       1       |
+|LCD 16 x 2                  |       1       |
+|250 kΩ Potentiometer        |       1       |
+|DC Motor                    |       1       |
+|Ultrasonic Distance Sensor  |       1       |
+==============================================
